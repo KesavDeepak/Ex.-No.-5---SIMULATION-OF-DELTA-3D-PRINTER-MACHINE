@@ -26,7 +26,7 @@
 
 ## OUTPUT:
 <img width="434" alt="1" src="https://github.com/KesavDeepak/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/139336019/533ba85f-cae9-4322-9284-0cccc85b64c9">
-<img width="429" alt="2" src="https://github.com/KesavDeepak/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/139336019/afa8b3b6-8188-46ae-a6b9-a62f4f0a04f1">
+ <img width="429" alt="2" src="https://github.com/KesavDeepak/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/139336019/afa8b3b6-8188-46ae-a6b9-a62f4f0a04f1">
 
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
